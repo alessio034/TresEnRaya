@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TresEnRayaActivity!</string>
+    <string name="app_name">TresEnRaya</string>
+    <string name="dificultad_menu">Elige el nivel de dificultad:</string>
+    <string name="dificultad_facil">Fácil</string>
+    <string name="dificultad_medio">Medio</string>
+    <string name="dificultad_experto">Experto</string>
+    <string name="abandonarPregunta">¿Quieres dejar de Jugar?</string>
+    <string name="si">SI</string>
+    <string name="no">No</string>
+    <string name="about">Tres en Raya para Curso de Android. </string>
+    <string name="autor">Montenegro</string>
+    <string name="nivelFacil">Nivel Fácil</string>
+    <string name="nivelMedio">Nivel Medio</string>
+    <string name="nivelExperto">Nivel Experto</string>
+    <string name="mensajeEmpate">¡¡Empate!!</string>
+    <string name="mensajeGanaAndroid">¡Ganó Android!</string>
+    <string name="mensajeGanaUsuario">Ganaste!!!!</string>
+    <string name="mensajeTurno">Es tu turno.</string>
+    <string name="title_activity_login_">Login_Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash__screen">Splash_Screen</string>
+    <string name="tres_en_raya">Tres en Raya</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_resultados">Resultados</string>
+
+</resources>

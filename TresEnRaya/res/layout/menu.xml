@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/nuevo_juego" 
+    android:title="Nuevo Juego" 
+    android:icon="@drawable/ic_menu_puzzle" /> 
+
+<item android:id="@+id/ai_dificultad" 
+    android:title="Dificultad" 
+    android:icon="@drawable/ic_menu_settings" />
+
+
+<item android:id="@+id/Puntuaciones"
+      android:title="Puntuaciones" />
+<item android:id="@+id/salir" 	
+    android:title="Salir" 
+    android:icon="@drawable/ic_menu_exit" />
+<item android:id="@+id/about" 	
+    android:title="About" 
+    android:icon="@drawable/ic_menu_barcode" />
+
+
+</menu>
